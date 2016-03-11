@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails depot: development" uuid="c5f7742a-51b6-452d-855d-8ab88b464e4f">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+    <data-source name="Rails depot: test" uuid="d0b11221-4120-4e01-b286-a259ed5c5e3f">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+  </component>
+</project>
